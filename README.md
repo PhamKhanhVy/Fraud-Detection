@@ -1,6 +1,6 @@
 # Fraud-Detection
  Financial fraud detection using Graph Neural Networks on DGL with Kafka Streaming.
-  ![pic5](pic5.jpg)
+  ![sys](sys.png)
 1. Dataset
   * [Xente](https://zindi.africa/competitions/xente-fraud-detection-challenge/data) is an e-commerce and financial service app serving 10,000+ customers in Uganda.
   * This dataset includes a sample of approximately 140,000 transactions that occurred between 15 November 2018 and 15 March 2019.
